@@ -34,9 +34,7 @@
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=1137882300" /> </div>
 
 
- <br>
-
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"> </div>
+ 
 
 
 
