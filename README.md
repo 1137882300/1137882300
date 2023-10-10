@@ -1,6 +1,11 @@
 ![Metrics](https://metrics.lecoq.io/1137882300?template=classic&base.indepth=true&16personalities=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&16personalities=false&16personalities.sections=personality&16personalities.scores=true&config.timezone=Asia%2FShanghai)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1137882300&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1137882300&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=1137882300&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
  <br>
